@@ -5,12 +5,8 @@ This project integrates a simple two-axis robotic arm with a mobile base using R
 # Quick Start
 Dependencies: ROS2, Gazebo
 Installation:
-
-  git clone https://example.com/your_ros2_robotic_arm_project.git
   
-  cd your_ros2_robotic_arm_project
-  
-  colcon build
+  colcon build 
   
   source install/setup.bash
 
