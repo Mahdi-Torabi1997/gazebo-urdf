@@ -1,21 +1,22 @@
-ROS2 Robotic Arm Project
-Overview
+# ROS2 Robotic Arm Project
+## Overview
 This project integrates a simple two-axis robotic arm with a mobile base using ROS2 and Gazebo, demonstrating the application of URDF, Gazebo simulation, and ROS2 communication.
 
-Quick Start
+# Quick Start
 Dependencies: ROS2, Gazebo
 Installation:
-bash
-Copy code
-git clone https://example.com/your_ros2_robotic_arm_project.git
-cd your_ros2_robotic_arm_project
-colcon build
-source install/setup.bash
-Running the Simulation:
-bash
-Copy code
-ros2 launch my_robot_bringup arm_and_base.launch.py
-Features
+
+  git clone https://example.com/your_ros2_robotic_arm_project.git
+  
+  cd your_ros2_robotic_arm_project
+  
+  colcon build
+  
+  source install/setup.bash
+
+  ros2 launch my_robot_bringup arm_and_base.launch.py
+  
+# Features
 Two-axis robotic arm on a mobile base.
 Gazebo simulation with custom plugins.
 ROS2 topic-based control and RViz visualization.
