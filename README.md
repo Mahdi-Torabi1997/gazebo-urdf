@@ -1,3 +1,4 @@
+![Gazebo](https://github.com/Mahdi-Torabi1997/gazebo-urdf/blob/main/Gazebo.png)
 # ROS2 Robotic Arm Project
 ## Overview
 This project integrates a simple two-axis robotic arm with a mobile base using ROS2 and Gazebo, demonstrating the application of URDF, Gazebo simulation, and ROS2 communication.
